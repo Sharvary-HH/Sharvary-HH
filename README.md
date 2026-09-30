@@ -1,8 +1,5 @@
 # Hi, I'm Sharvary H H 👋
 
-💻 Software Engineer
-🐍 Python Developer
-🤖 AI / ML Developer
 🎓 B.E. Computer Science (Data Science), RV College of Engineering, Bengaluru
 
 Built an LLM-based classification pipeline at Draup (fine-tuned Qwen + GTE retrieval) over 2M company records. I work across full-stack, data, and production ML.
